@@ -5,7 +5,7 @@
 * Максимум баллов: 10
 
 ## Подготовка
-- [ ] Настроить окружение для работы с Jupyter Notebook.
+- [*] Настроить окружение для работы с Jupyter Notebook.
 - [ ] Установить библиотеку [python-graphblas](https://github.com/python-graphblas/python-graphblas/tree/main) и необходимые зависимости.
 
 ## Задача
